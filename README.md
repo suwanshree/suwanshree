@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=6000&color=CFCD14DC&width=420&lines=Hello+and+Welcome+to+my+Profile.;Hope+you're+having+a+great+day!)](https://git.io/typing-svg)
 
-![]([https://www.canva.com/design/DAFCwH-8CkY/Zgum8G_MDMbVsyHzDXd3XQ/edit?utm_content=DAFCwH8CkY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFCwH-8CkY/Zgum8G_MDMbVsyHzDXd3XQ/watch?utm_content=DAFCwH-8CkY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![](Suwanshree-Acharya.gif)
 
 ## Skills
 - Frontend development using JavaScript and industry standard technologies such as React, Redux, HTML & CSS.
